@@ -34,9 +34,6 @@ También comparto contenido técnico y educativo en mi canal de YouTube:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,docker,linux,wordpress,bash,github,git,vscode,mysql,cloudflare,kali" />
-  <img src="https://img.shields.io/badge/Redes-0d1117?style=for-the-badge&logo=cloudflare&logoColor=f0db4f" />
-  <img src="https://img.shields.io/badge/Bases%20de%20Datos-0d1117?style=for-the-badge&logo=mysql&logoColor=f0db4f" />
-  <img src="https://img.shields.io/badge/Hacking-0d1117?style=for-the-badge&logo=metasploit&logoColor=f0db4f" />
 </p>
 
 ---
