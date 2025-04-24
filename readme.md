@@ -51,15 +51,15 @@ También comparto contenido técnico y educativo en mi canal de YouTube:
 
 <p align="center">
   <a href="https://github.com/Maalfer" target="_blank" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
+    <img src="https://img.icons8.com/ios-glyphs/50/f0db4f/github.png" width="40" height="40" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/maalfer1/" target="_blank" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn" />
+    <img src="https://img.icons8.com/ios-filled/50/f0db4f/linkedin.png" width="40" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/elpinguinodemario/" target="_blank" title="Instagram">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" width="45" height="45" alt="Instagram" style="filter: invert(86%) sepia(99%) saturate(450%) hue-rotate(1deg) brightness(105%) contrast(103%);" />
+    <img src="https://img.icons8.com/ios-filled/50/f0db4f/instagram-new.png" width="40" height="40" alt="Instagram"/>
   </a>
 </p>
 
