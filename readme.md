@@ -50,13 +50,15 @@ También comparto contenido técnico y educativo en mi canal de YouTube:
 ### 🌐 Contacto y redes
 
 <p align="center">
-  <a href="https://github.com/Maalfer">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=f0db4f"/>
+  <a href="https://github.com/Maalfer" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/maalfer1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=f0db4f"/>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/maalfer1/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/elpinguinodemario/">
-    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=f0db4f"/>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/elpinguinodemario/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" width="40" height="40" alt="Instagram" style="filter: invert(81%) sepia(98%) saturate(497%) hue-rotate(4deg) brightness(101%) contrast(101%);" />
   </a>
 </p>
