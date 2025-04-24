@@ -47,5 +47,19 @@ También comparto contenido técnico y educativo en mi canal de YouTube:
 
 ---
 
-🌐 Contacto y redes
-<p align="center"> <a href="https://github.com/Maalfer" target="_blank" title="GitHub"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" /> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/maalfer1/" target="_blank" title="LinkedIn"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" /> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/elpinguinodemario/" target="_blank" title="Instagram"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" width="48" height="48" alt="Instagram" style="filter: invert(86%) sepia(99%) saturate(500%) hue-rotate(2deg) brightness(105%) contrast(102%);" /> </a> </p>
+### 🌐 Contacto y redes
+
+<p align="center">
+  <a href="https://github.com/Maalfer" target="_blank" title="GitHub">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/maalfer1/" target="_blank" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/elpinguinodemario/" target="_blank" title="Instagram">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" width="45" height="45" alt="Instagram" style="filter: invert(86%) sepia(99%) saturate(450%) hue-rotate(1deg) brightness(105%) contrast(103%);" />
+  </a>
+</p>
+
