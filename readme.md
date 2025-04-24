@@ -43,8 +43,6 @@ También comparto contenido técnico y educativo en mi canal de YouTube:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Maalfer&show_icons=true&theme=dark&locale=es&title_color=f0db4f&text_color=ffffff&icon_color=f0db4f&border_radius=10" alt="Estadísticas GitHub" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=Maalfer&theme=dark&locale=es&ring=f0db4f&fire=f0db4f&currStreakLabel=f0db4f&currStreakNum=ffffff&sideLabels=ffffff&sideNums=f0db4f" alt="Racha de contribuciones"/>
-  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maalfer&layout=compact&theme=dark&locale=es&title_color=f0db4f&text_color=ffffff" alt="Lenguajes más usados"/>
 </p>
 
