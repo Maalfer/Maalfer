@@ -17,6 +17,7 @@ Apasionado por la **ciberseguridad ofensiva y defensiva**, protegiendo y fortale
 
 Trabajo como **freelance**, combinando la **docencia en informática y ciberseguridad** con la gestión y securización de servidores.  
 También comparto contenido técnico y educativo en mi canal de YouTube:  
+<br><br>
 📺 [**El Pingüino de Mario**](https://www.youtube.com/@elpinguinodemario)
 
 ---
