@@ -30,7 +30,7 @@ También comparto contenido técnico y educativo en mi canal de YouTube:
 
 ---
 
-### 🛠️ Tecnologías que domino
+### 🛠️ Algunas Tecnologías que domino
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,docker,linux,wordpress,bash,github,git,vscode,mysql,mongodb,kali" />
