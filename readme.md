@@ -50,14 +50,6 @@ También comparto contenido en mi canal de YouTube:
 
 ---
 
-### 🏆 Trofeos GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maalfer&theme=darkhub&title=ffffff&text=f0db4f&no-frame=true&no-bg=true&row=1&column=7"/>
-</p>
-
----
-
 ### 🌐 Contacto y redes
 
 <p align="center">
