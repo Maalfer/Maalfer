@@ -1,9 +1,6 @@
-<p align="center">
-  <img src="https://github.com/Maalfer/whoami-github/blob/main/banner.jpeg" alt="Banner Mario Ethical Hacker" width="100%"/>
-</p>
 
-<h1 align="center">💀 Mario Álvarez Fernández</h1>
-<h3 align="center">🛡️ Informático | 🐧 Ciberseguridad | 🎓 Docente Técnico</h3>
+<h1 align="center">🐧 Mario Álvarez Fernández</h1>
+<h3 align="center">🛡️ Informático | 🥷 Ciberseguridad | 🎓 Docente Técnico</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Maalfer&label=Visitas+al+perfil&color=f0db4f&style=flat-square" alt="Contador de visitas"/>
