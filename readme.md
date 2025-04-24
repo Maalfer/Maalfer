@@ -1,6 +1,5 @@
-
 <h1 align="center">🐧 Mario Álvarez Fernández</h1>
-<h3 align="center">🛡️ Informático | 🥷 Ciberseguridad | 🎓 Docente </h3>
+<h3 align="center">🛡️ Informático | 🥷 Ciberseguridad | 🎓 Docente</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Maalfer&label=Visitas+al+perfil&color=f0db4f&style=flat-square" alt="Contador de visitas"/>
@@ -12,11 +11,11 @@
 
 ### 🧠 Sobre mí
 
-Informático especializado en **ciberseguridad**, con sólida experiencia en **Linux, Python, redes, hacking ético** y **administración de sistemas**.  
-Mi enfoque principal es la **ciberseguridad ofensiva y defensiva**, protegiendo sistemas y servidores, sobre todo en entornos Linux.
+Informático especializado en **ciberseguridad**, con experiencia en **Linux, Python, redes, hacking ético** y **administración de sistemas**.  
+Apasionado por la **ciberseguridad ofensiva y defensiva**, protegiendo y fortaleciendo infraestructuras digitales, especialmente en entornos Linux.
 
-Trabajo como **freelance**, combinando la **docencia en informática, ciberseguridad y programación** con la gestión y securización de servidores.  
-También comparto contenido en mi canal de YouTube:  
+Trabajo como **freelance**, combinando la **docencia en informática y ciberseguridad** con la gestión y securización de servidores.  
+También comparto contenido técnico y educativo en mi canal de YouTube:  
 📺 [**El Pingüino de Mario**](https://www.youtube.com/@elpinguinodemario)
 
 ---
@@ -26,14 +25,18 @@ También comparto contenido en mi canal de YouTube:
 - 🔹 [dockerlabs.es](https://dockerlabs.es) – Laboratorios vulnerables en Docker para practicar ciberseguridad.  
 - 🔹 [elrincondelhacker.es](https://elrincondelhacker.es) – Academia online especializada en cursos de ciberseguridad.  
 - 🔹 [bugbountylabs.com](https://bugbountylabs.com) – Plataforma con entornos realistas para entrenar en hacking web.  
-- 🔹 [maalfer.github.io/whoami](https://maalfer.github.io/whoami) – Mi web personal.
+- 🔹 [maalfer.github.io/whoami](https://maalfer.github.io/whoami) – Mi web personal.  
+- 🔹 [nereagonzalez.art](https://nereagonzalez.art) – Portafolio artístico y desarrollo web colaborativo.
 
 ---
 
 ### 🛠️ Tecnologías que domino
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,docker,linux,wordpress,bash,github,git,vscode,nmap,wireshark,burpsuite" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,docker,linux,wordpress,bash,github,git,vscode" />
+  <img src="https://img.shields.io/badge/Redes-0d1117?style=for-the-badge&logo=cloudflare&logoColor=f0db4f" />
+  <img src="https://img.shields.io/badge/Bases%20de%20Datos-0d1117?style=for-the-badge&logo=mysql&logoColor=f0db4f" />
+  <img src="https://img.shields.io/badge/Hacking-0d1117?style=for-the-badge&logo=metasploit&logoColor=f0db4f" />
 </p>
 
 ---
