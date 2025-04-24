@@ -53,10 +53,10 @@ También comparto contenido en mi canal de YouTube:
   <a href="https://github.com/Maalfer">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=f0db4f"/>
   </a>
-  <a href="https://www.linkedin.com/in/thomasoneil%C3%A1lvarez/">
+  <a href="https://www.linkedin.com/in/maalfer1/">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=f0db4f"/>
   </a>
-  <a href="https://www.instagram.com/thomas_oneil_alvarez_">
+  <a href="https://www.instagram.com/elpinguinodemario/">
     <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=f0db4f"/>
   </a>
 </p>
