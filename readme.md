@@ -11,7 +11,8 @@
 
 ### 🧠 Sobre mí
 
-Informático especializado en **ciberseguridad**, con experiencia en **Linux, Python, redes, hacking ético** y **administración de sistemas**.  
+Informático especializado en **ciberseguridad**, con experiencia en **Linux, Python, redes, hacking ético** y **administración de sistemas**. 
+<br>
 Apasionado por la **ciberseguridad ofensiva y defensiva**, protegiendo y fortaleciendo infraestructuras digitales, especialmente en entornos Linux.
 
 Trabajo como **freelance**, combinando la **docencia en informática y ciberseguridad** con la gestión y securización de servidores.  
