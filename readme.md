@@ -1,6 +1,6 @@
 
 <h1 align="center">🐧 Mario Álvarez Fernández</h1>
-<h3 align="center">🛡️ Informático | 🥷 Ciberseguridad | 🎓 Docente Técnico</h3>
+<h3 align="center">🛡️ Informático | 🥷 Ciberseguridad | 🎓 Docente </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Maalfer&label=Visitas+al+perfil&color=f0db4f&style=flat-square" alt="Contador de visitas"/>
