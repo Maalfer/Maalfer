@@ -22,16 +22,6 @@ También comparto contenido técnico y educativo en mi canal de YouTube:
 
 ---
 
-### 🔧 Proyectos destacados
-
-- 🔹 [dockerlabs.es](https://dockerlabs.es) – Laboratorios vulnerables en Docker para practicar ciberseguridad.  
-- 🔹 [elrincondelhacker.es](https://elrincondelhacker.es) – Academia online especializada en cursos de ciberseguridad.  
-- 🔹 [bugbountylabs.com](https://bugbountylabs.com) – Plataforma con entornos realistas para entrenar en hacking web.  
-- 🔹 [maalfer.github.io/whoami](https://maalfer.github.io/whoami) – Mi web personal.  
-- 🔹 [nereagonzalez.art](https://nereagonzalez.art) – Portafolio artístico y desarrollo web colaborativo.
-
----
-
 ### 🛠️ Algunas Tecnologías que domino
 
 <p align="center">
