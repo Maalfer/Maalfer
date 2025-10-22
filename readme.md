@@ -62,6 +62,14 @@ Como freelance, combino la docencia en informática y ciberseguridad con la gest
 
 <hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#f0db4f,#0e1b2e00);margin:16px 0;"/>
 
+### 🚀 Proyectos Web destacados
+
+- 🐍 [**TheL4FPRO**](https://app.living4football.club/): Aplicación web de reservas deportivas desarrollada con **FastAPI** y **Jinja2**, enfocada en gestión de usuarios y roles docentes.
+- 🐋 [**DockerLabs**](https://dockerlabs.es): Plataforma de máquinas y writeups de hacking actualmente hecha en **Flask** aunque en proceso de migración a **Laravel**, con control de roles y panel de administración completo.
+- 💻 [**Tu Senda Digital**](https://tusendadigital.com): Servicios de **auditoría de seguridad** y **desarrollo web** para Pymes y particulaes utilizando frameworks de desarrollo con python (Djando, Fast API y Flask)
+- 🥷 [**El Rincón del Hacker**](https://elrincondelhacker.es): Academia de ciberseguridad donde se ofrecen distintos cursos, desde hacking ético hasta python, docker, splunk, etc.
+
+
 ### 🌐 Contacto y redes
 
 <div align="center">
