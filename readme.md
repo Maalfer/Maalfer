@@ -13,23 +13,37 @@
 
 ### 🧠 Sobre mí
 
-Informático especializado en ciberseguridad, con experiencia en Linux, Python, redes, hacking ético y administración de sistemas. Actualmente compagino mi trabajo como profesor de Formación Profesional con proyectos freelance desarrollando aplicaciones web con un enfoque en ciberseguridad. <br><br> Mi pasión se centra en la ciberseguridad tanto ofensiva como defensiva, protegiendo y fortaleciendo infraestructuras digitales, especialmente en entornos Linux. Esta doble faceta me permite mantenerme actualizado en las últimas tecnologías y amenazas. <br><br> Como freelance, combino la docencia en informática y ciberseguridad con la gestión y securización de servidores para diversos clientes. Además, comparto contenido técnico y educativo en mi canal de YouTube, donde difundo conocimientos sobre seguridad informática: <br><br> 📺 [**El Pingüino de Mario**](https://www.youtube.com/@elpinguinodemario)
+Informático especializado en ciberseguridad, con experiencia en Linux, Python, redes, hacking ético y administración de sistemas. Actualmente compagino mi trabajo como profesor de Formación Profesional con proyectos freelance desarrollando aplicaciones web con un enfoque en ciberseguridad. <br><br> 
+Mi pasión se centra en la ciberseguridad tanto ofensiva como defensiva, protegiendo y fortaleciendo infraestructuras digitales, especialmente en entornos Linux. Esta doble faceta me permite mantenerme actualizado en las últimas tecnologías y amenazas. <br><br> 
+Como freelance, combino la docencia en informática y ciberseguridad con la gestión y securización de servidores para diversos clientes. Además, comparto contenido técnico y educativo en mi canal de YouTube: <br><br> 
+📺 [**El Pingüino de Mario**](https://www.youtube.com/@elpinguinodemario)
 
 <hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#f0db4f,#0e1b2e00);margin:16px 0;"/>
 
 ### 🛠️ Tecnologías y herramientas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,laravel,docker,linux,bash,wordpress,github,git,vscode,mysql,mongodb,kali" alt="Tecnologías" />
+
+  <!-- 🧩 Tecnologías principales -->
+  <h4>⚙️ Tecnologías principales</h4>
+  <img src="https://skillicons.dev/icons?i=python,java,js,laravel,docker,linux,bash,wordpress,github,git,vscode,mysql,mongodb,kali" alt="Tecnologías principales" />
   <br/><br/>
+
+  <!-- 🧱 Frameworks, librerías y herramientas secundarias -->
+  <h4>🧰 Frameworks y herramientas</h4>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tkinter-3b82f6?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jinja2-b41717?style=flat-square&logo=jinja&logoColor=white" />
 </div>
 
 <hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#f0db4f,#0e1b2e00);margin:16px 0;"/>
-
 
 ### 📊 Estadísticas de GitHub
 
