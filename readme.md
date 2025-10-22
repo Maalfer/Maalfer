@@ -74,15 +74,19 @@ Como freelance, combino la docencia en informática y ciberseguridad con la gest
 
 <div align="center">
   <a href="https://github.com/Maalfer" title="GitHub">
-    <img src="https://img.icons8.com/ios-glyphs/50/f0db4f/github.png" width="40" height="40" alt="GitHub"/>
+    <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="36" height="36" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/maalfer1/" title="LinkedIn">
-    <img src="https://img.icons8.com/ios-filled/50/f0db4f/linkedin.png" width="40" height="40" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/ios-filled/48/ffffff/linkedin.png" width="36" height="36" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/elpinguinodemario/" title="Instagram">
-    <img src="https://img.icons8.com/ios-filled/50/f0db4f/instagram-new.png" width="40" height="40" alt="Instagram"/>
+    <img src="https://img.icons8.com/ios-filled/48/ffffff/instagram-new.png" width="36" height="36" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@elpinguinodemario" title="YouTube">
+    <img src="https://img.icons8.com/ios-filled/48/ffffff/youtube-play.png" width="36" height="36" alt="YouTube"/>
   </a>
 </div>
 
