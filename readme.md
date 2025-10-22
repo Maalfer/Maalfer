@@ -46,6 +46,16 @@ Como freelance, combino la docencia en informática y ciberseguridad con la gest
 
 <hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#f0db4f,#0e1b2e00);margin:16px 0;"/>
 
+### 📈 Evolución de commits
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Maalfer&theme=tokyo-night&hide_border=true&area=true&custom_title=Evoluci%C3%B3n%20de%20commits"
+    alt="Gráfico de actividad de commits"
+  />
+</div>
+
+
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
