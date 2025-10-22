@@ -23,7 +23,7 @@ Como freelance, combino la docencia en informática y ciberseguridad con la gest
 ### 🛠️ Algunas Tecnologías que domino
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,docker,linux,wordpress,bash,github,git,vscode,mysql,mongodb,kali" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,laravel,docker,linux,wordpress,bash,github,git,vscode,mysql,mongodb,kali" />
 </p>
 
 ---
@@ -35,7 +35,6 @@ Como freelance, combino la docencia en informática y ciberseguridad con la gest
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maalfer&layout=compact&theme=dark&locale=es&title_color=f0db4f&text_color=ffffff" alt="Lenguajes más usados"/>
 </p>
-
 
 ---
 
@@ -54,4 +53,3 @@ Como freelance, combino la docencia en informática y ciberseguridad con la gest
     <img src="https://img.icons8.com/ios-filled/50/f0db4f/instagram-new.png" width="40" height="40" alt="Instagram"/>
   </a>
 </p>
-
