@@ -26,7 +26,7 @@ Como freelance, combino la docencia en informática y ciberseguridad con la gest
 
   <!-- 🧩 Tecnologías principales -->
   <h4>⚙️ Tecnologías principales</h4>
-  <img src="https://skillicons.dev/icons?i=python,java,js,laravel,docker,linux,bash,wordpress,github,git,vscode,mysql,mongodb,kali" alt="Tecnologías principales" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,docker,linux,bash,wordpress,github,git,vscode,mysql,mongodb,kali" alt="Tecnologías principales" />
   <br/><br/>
 
   <!-- 🧱 Frameworks, librerías y herramientas secundarias -->
@@ -34,6 +34,7 @@ Como freelance, combino la docencia en informática y ciberseguridad con la gest
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Tkinter-3b82f6?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
