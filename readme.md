@@ -72,30 +72,21 @@ Como freelance, combino la docencia en informática y ciberseguridad con la gest
 
 ### 🌐 Contacto y redes
 
-<style>
-  .social-icons a {
-    display: inline-block;
-    margin: 0 10px;
-    transition: transform 0.2s ease, filter 0.3s ease;
-  }
-  .social-icons a:hover {
-    transform: scale(1.15);
-    filter: drop-shadow(0 0 6px rgba(255,255,255,0.4));
-  }
-</style>
-
-<div align="center" class="social-icons">
+<div align="center">
   <a href="https://github.com/Maalfer" title="GitHub">
-    <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="38" height="38" alt="GitHub"/>
+    <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" width="36" height="36" alt="GitHub"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/maalfer1/" title="LinkedIn">
-    <img src="https://img.icons8.com/ios-filled/48/0A66C2/linkedin.png" width="38" height="38" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/ios-filled/48/ffffff/linkedin.png" width="36" height="36" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/elpinguinodemario/" title="Instagram">
-    <img src="https://img.icons8.com/ios-filled/48/E4405F/instagram-new.png" width="38" height="38" alt="Instagram"/>
+    <img src="https://img.icons8.com/ios-filled/48/ffffff/instagram-new.png" width="36" height="36" alt="Instagram"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@elpinguinodemario" title="YouTube">
-    <img src="https://img.icons8.com/ios-filled/48/FF0000/youtube-play.png" width="38" height="38" alt="YouTube"/>
+    <img src="https://img.icons8.com/ios-filled/48/ffffff/youtube-play.png" width="36" height="36" alt="YouTube"/>
   </a>
 </div>
 
