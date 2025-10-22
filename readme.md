@@ -15,7 +15,7 @@ Informático especializado en ciberseguridad, con experiencia en Linux, Python, 
 
 Mi pasión se centra en la ciberseguridad tanto ofensiva como defensiva, protegiendo y fortaleciendo infraestructuras digitales, especialmente en entornos Linux. Esta doble faceta me permite mantenerme actualizado en las últimas tecnologías y amenazas, lo que enriquece mi labor docente acercando casos reales y prácticos al aula.
 
-Como freelance, combino la docencia en informática y ciberseguridad con la gestión y securización de servidores para diversos clientes. Además, comparto contenido técnico y educativo en mi canal de YouTube, donde difundo conocimientos sobre seguridad informática:
+Como freelance, combino la docencia en informática y ciberseguridad con la gestión y securización de servidores para diversos clientes. Además, comparto contenido técnico y educativo en mi canal de YouTube, donde difundo conocimientos sobre seguridad informática: <br>
 📺 [**El Pingüino de Mario**](https://www.youtube.com/@elpinguinodemario)
 
 ---
